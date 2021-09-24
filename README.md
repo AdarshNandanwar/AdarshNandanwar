@@ -1,6 +1,5 @@
 ## 👋 &nbsp;Hi there, I'm Adarsh Nandanwar
-- 🎓 &nbsp;I’m Computer Science Engineer
-- 🏛️ &nbsp;I'm senior year undergrad at BITS Pilani Goa Campus
+- 🎓 &nbsp;I'm senior year Computer Science Engineering undergrad at BITS Pilani - Goa Campus
 - 🔭 &nbsp;I’m currently working on Web Dev, Adversarial ML and NLP
 - 📫 &nbsp;How to reach me:  
 <a href="https://www.linkedin.com/in/adarshnandanwar/"><img src="https://img.shields.io/badge/-Adarsh%20Nandanwar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
