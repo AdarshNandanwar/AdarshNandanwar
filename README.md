@@ -24,10 +24,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=AdarshNandanwar&show_icons=true&include_all_commits=true&hide=stars" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshNandanwar&layout=compact" />
-</p>
